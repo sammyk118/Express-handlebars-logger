@@ -1,0 +1,1 @@
+INSERT INTO burgers (burger_name, devoured) VALUES ("Double-Double"), ("cheeseburger"), ("bacon burger");
